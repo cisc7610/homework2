@@ -1,0 +1,150 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9206615090370178
+      },
+      {
+        "description": "structure",
+        "mid": "/m/0n68_",
+        "score": 0.8488960266113281
+      },
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.8462785482406616
+      },
+      {
+        "description": "dome",
+        "mid": "/m/0c85fd",
+        "score": 0.8430438041687012
+      },
+      {
+        "description": "photography",
+        "mid": "/m/05wkw",
+        "score": 0.8034387230873108
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.7878671288490295
+      },
+      {
+        "description": "arch",
+        "mid": "/m/0dpvm",
+        "score": 0.7484897375106812
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.744320809841156
+      },
+      {
+        "description": "daylighting",
+        "mid": "/m/0k2n5",
+        "score": 0.6981950998306274
+      },
+      {
+        "description": "symmetry",
+        "mid": "/m/0f28m",
+        "score": 0.6859950423240662
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/32737581263_d9d2b7f004_new-york.jpg"
+        },
+        {
+          "url": "http://farm3.static.flickr.com/2837/32737581263_d9d2b7f004_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tags/ig_newyork"
+        },
+        {
+          "url": "https://www.flickr.com/photos/pedrosz/32737581263"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/dalton-tourist-information"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/hewlett-tourist-holidays/"
+        },
+        {
+          "url": "http://freephotostags.com/new%20york"
+        },
+        {
+          "url": "http://freephotostags.com/home/new+champion+5+glosm%C3%A4staren"
+        },
+        {
+          "url": "http://www.pictopic.net/topic/newyork"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/32737581263_d9d2b7f004_new-york.jpg"
+        },
+        {
+          "url": "http://farm3.static.flickr.com/2837/32737581263_d9d2b7f004_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Hewlett",
+          "entityId": "/m/0y2jc",
+          "score": 3.409600019454956
+        },
+        {
+          "description": "Carol Place",
+          "entityId": "/g/1tglj6n2",
+          "score": 1.0967999696731567
+        },
+        {
+          "description": "A New Street",
+          "entityId": "/g/1tl0y8g2",
+          "score": 1.0252000093460083
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.2973000109195709
+        },
+        {
+          "description": "Tourist attraction",
+          "entityId": "/m/0pgl9",
+          "score": 0.2889237105846405
+        },
+        {
+          "description": "Tourism",
+          "entityId": "/m/07bxq",
+          "score": 0.28380000591278076
+        },
+        {
+          "description": "Visitor center",
+          "entityId": "/m/03fjn0",
+          "score": 0.2786000072956085
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.27309998869895935
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.2515999972820282
+        },
+        {
+          "description": "Building",
+          "entityId": "/m/0cgh4",
+          "score": 0.24539369344711304
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2837/32737581263_d9d2b7f004.jpg"
+}

@@ -1,0 +1,57 @@
+{
+  "url": "https:\/\/farm5.staticflickr.com\/4469\/23531804118_fce6162cd1.jpg",
+  "response": {
+    "labelAnnotations": [
+      {
+        "score": 0.85065764188766,
+        "mid": "\/m\/07yv9",
+        "description": "vehicle"
+      },
+      ...
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https:\/\/farm6.staticflickr.com\/5079\/7403056606_a09f6f670e_b.jpg"
+        },
+        ...
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http:\/\/picssr.com\/photos\/32622429@N02\/favorites\/page109?nsid=32622429@N02"
+        },
+        ...
+      ],
+      "webEntities": [
+        {
+          "score": 3.0824000835419,
+          "entityId": "\/m\/02vqfm",
+          "description": "Coffee"
+        },
+        ...
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https:\/\/farm6.staticflickr.com\/5079\/7403056606_a09f6f670e_b.jpg"
+        },
+        ...
+      ]
+    },
+    "landmarkAnnotations": [
+      {
+        "score": 0.78584295511246,
+        "mid": "\/m\/02dpsq",
+        "description": "Williamsburg Bridge",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.712001800537,
+              "longitude": -73.97216796875
+            }
+          }
+        ]
+      },
+      ...
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.978363037109375
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9665606021881104
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.960827648639679
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9607526063919067
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9442256093025208
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.944141149520874
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9420264363288879
+      },
+      {
+        "description": "bridge",
+        "mid": "/m/015kr",
+        "score": 0.9269035458564758
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9259456396102905
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.8879686594009399
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Brooklyn Bridge",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.705726,
+              "longitude": -73.996953
+            }
+          }
+        ],
+        "mid": "/m/0cv4c",
+        "score": 0.5414500832557678
+      },
+      {
+        "description": "New York City",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.748433,
+              "longitude": -73.985753
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.4194762110710144
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/3/2850/32712158102_6baab7fc65_k.jpg"
+        },
+        {
+          "url": "http://www.flyfork.com/wp-content/uploads/2017/03/32712158102_6baab7fc65_k.jpg"
+        },
+        {
+          "url": "http://www.thephotoargus.com/wp-content/uploads/2017/07/new-york-city-runner.jpg"
+        },
+        {
+          "url": "http://naoshikato.com/wp-content/uploads/2017/03/32712158102_79540a2e9d_o.jpg"
+        },
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/6/8/enhanced/buzzfeed-prod-fastlane-01/enhanced-22457-1491482851-1.jpg?downsize=715:*&output-format=auto&output-quality=auto"
+        },
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/6/8/enhanced/buzzfeed-prod-fastlane-01/enhanced-22457-1491482851-1.jpg"
+        },
+        {
+          "url": "https://farm3.staticflickr.com/2850/32712158102_ecc8f2cec3.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2850/32712158102_ecc8f2cec3_n.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.tourbytransit.com/newyorkcity/things-to-do/brooklyn_bridge"
+        },
+        {
+          "url": "http://www.thephotoargus.com/new-york-city-images-street-photography-tips-joerg-schubert/"
+        },
+        {
+          "url": "https://www.buzzfeed.com/benhenry/nyc-or-london"
+        },
+        {
+          "url": "http://www.flyfork.com/destinations/usa/"
+        },
+        {
+          "url": "http://www.flyfork.com/vancouver-new-york-353-cad-roundtrip-including-taxes/"
+        },
+        {
+          "url": "https://v-stargency.com/talk-voice-controlled-gadgets-shaping-future/"
+        },
+        {
+          "url": "https://v-stargency.com/8-reasons-why-crowd-vouching-is-the-future-of-micro-financing/"
+        },
+        {
+          "url": "http://skyscraperpage.com/forum/showthread.php?t=130306&page=256"
+        },
+        {
+          "url": "http://forum.skyscraperpage.com/showthread.php?t=130306&page=256"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/tintography/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/3/2850/32712158102_6baab7fc65_k.jpg"
+        },
+        {
+          "url": "http://www.flyfork.com/wp-content/uploads/2017/03/32712158102_6baab7fc65_k.jpg"
+        },
+        {
+          "url": "http://www.thephotoargus.com/wp-content/uploads/2017/07/new-york-city-runner.jpg"
+        },
+        {
+          "url": "http://naoshikato.com/wp-content/uploads/2017/03/32712158102_79540a2e9d_o.jpg"
+        },
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/6/8/enhanced/buzzfeed-prod-fastlane-01/enhanced-22457-1491482851-1.jpg?downsize=715:*&output-format=auto&output-quality=auto"
+        },
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-04/6/8/enhanced/buzzfeed-prod-fastlane-01/enhanced-22457-1491482851-1.jpg"
+        },
+        {
+          "url": "https://farm3.staticflickr.com/2850/32712158102_ecc8f2cec3.jpg"
+        },
+        {
+          "url": "http://www.flyfork.com/wp-content/uploads/2017/03/32712158102_6baab7fc65_k-390x250.jpg"
+        },
+        {
+          "url": "https://v-stargency.com/wp-content/uploads/2017/06/32712158102_6baab7fc65_k-370x226.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2850/32712158102_ecc8f2cec3_n.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 48.697601318359375
+        },
+        {
+          "description": "Top of The Rock",
+          "entityId": "/g/11cmgnblyq",
+          "score": 10.313599586486816
+        },
+        {
+          "description": "Brooklyn",
+          "entityId": "/m/0cr3d",
+          "score": 1.9411200284957886
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.39986661076545715
+        },
+        {
+          "description": "English language",
+          "entityId": "/m/02h40lc",
+          "score": 0.3127000033855438
+        },
+        {
+          "description": "Bridge",
+          "entityId": "/m/015kr",
+          "score": 0.3059000074863434
+        },
+        {
+          "description": "Suspension bridge",
+          "entityId": "/m/0csy8",
+          "score": 0.2780362367630005
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.2719120979309082
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.27004456520080566
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.2549999952316284
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2850/32712158102_ecc8f2cec3.jpg"
+}
