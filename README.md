@@ -141,7 +141,7 @@ The following resources could be helpful in importing the JSON data into neo4j
 
 After importing the JSON into Neo4j, the total number of each label should be:
 
-| Entity | Count |
+| Label | Count |
 | ------ | -----:|
 | image | 560 |
 | label | 201 |
@@ -154,7 +154,7 @@ After importing the JSON into Neo4j, the total number of each label should be:
 ## Write code to query the database
 
 Implement the missing TODO entries in the [`queryNeo4j()` function](https://github.com/cisc7610/homework2/blob/master/runNeo4j.py#L77).
-You should use the supplied [`queryNeo4jAndPrintResults()`](https://github.com/cisc7610/homework2/blob/master/runNeo4j.py#L151) function
+You should use the supplied [`queryNeo4jAndPrintResults()`](https://github.com/cisc7610/homework2/blob/master/runNeo4j.py#L152) function
 to query the database.  The queries should be as follows:
 
 1. Count the total number of JSON documents in the database
